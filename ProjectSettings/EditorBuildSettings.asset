@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Practicas/Practica4_Manuel_Chavez.unity
+    guid: 24582aa119c5d47439a9d89a104df9ea
+  - enabled: 0
+    path: Assets/Practicas/P3Parte2_Manuel_Chavez.unity
+    guid: 9b8d31b2b1b59334cb01a1f35a588d6a
+  - enabled: 0
+    path: Assets/Practicas/Practica3Parte1_Manuel_Chavez.unity
+    guid: 94ba391c75598f845bd9b6940547187d
+  - enabled: 0
+    path: Assets/Practicas/Practica2_Manuel_Chavez.unity
+    guid: a2d570bc16941ea42920d6586edbbcb8
+  - enabled: 0
+    path: Assets/Practicas/Practica1_Manuel_Chavez.unity
+    guid: 7f962ae79342da442a5af581a9e9d96c
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ac408440c81a7134cbfa59ed5407ecbe
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal_Manuel_Chavez.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: 9b91c8c0bfc7e50488916c9892d87899
+  - enabled: 1
+    path: Assets/Scenes/Low.unity
+    guid: 1056ad1826024e84aa730e4438dc0b58
+  m_configObjects: {}
